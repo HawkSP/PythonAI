@@ -1,0 +1,51 @@
+,artist,artist_uri,song,song_uri,duration_ms,explicit,album,popularity,release_date
+0,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,Many Times,spotify:track:63EUqnpcphhZh8SbXagArw,126905,False,Absolutely,56,2021-11-05
+1,KAMI,spotify:artist:3BhngrEjaGAD0a8OzzFWlC,Badmon,spotify:track:6wOqjUDeEEyioAstyQcvDw,173346,True,Season,40,2015-01-20
+2,Nathan Dawe,spotify:artist:2gduEC76ry33RVurAvT05p,Lighter (feat. KSI) - Shapes Remix,spotify:track:3SMyy85TGAxfH7NYu65ujO,204096,False,Lighter (feat. KSI) [Shapes Remix],44,2020-10-09
+3,BROCKHAMPTON,spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA,BUZZCUT (feat. Danny Brown),spotify:track:3uOIoS7lOvzQAtbbyttHp6,201160,True,BUZZCUT (feat. Danny Brown),47,2021-03-25
+4,Svirgo19,spotify:artist:17W51IEIES4YPK8Dj1L075,On & Off,spotify:track:7GXvtGm4MMoZpK2ZJROeAe,167441,True,The Path To Paradise Begins In Hell,1,2022-11-18
+5,ladiesmile,spotify:artist:0sCGdw63iJOtZQR6WgkCgq,GOODMORNING!,spotify:track:4G0HErA8DVn1o13pHCRKbv,182000,True,GOODMORNING!,40,2020-12-07
+6,Cordae,spotify:artist:0huGjMyP507tBCARyzSkrv,RNP (feat. Anderson .Paak),spotify:track:5lw8Mgb4LyhriPIC86gV6e,175827,True,The Lost Boy,67,2019-07-26
+7,Ini Kamoze,spotify:artist:1VJspRsoC6c0bvqhnSiFCs,Here Comes the Hotstepper,spotify:track:1G88BbuMts7HC0nHGoHmhv,247466,False,Reggae Classics,54,2007-12-28
+8,ded eye,spotify:artist:1aCa9xZJZUDzPABSbSFjE4,hypervigilance,spotify:track:2ohgxnoFaBChOPQhezPQpI,141984,True,hypervigilance,1,2022-04-22
+9,Black Eyed Peas,spotify:artist:1yxSLGMDHlW21z4YXirZDS,Pump It,spotify:track:2ygMBIctKIAfbEBcT9065L,213066,False,Monkey Business,76,2005-01-01
+10,Bryce Bishop,spotify:artist:4bCECQ7T6fKIUbM8PtC13Q,You,spotify:track:3XbiRSBiSZotIhX5wkmtSQ,148531,False,You,38,2020-05-18
+11,Far East Movement,spotify:artist:698hF4vcwHwPy8ltmXermq,Like A G6,spotify:track:5AyL2kgLtTWEu3qO3B9SqK,216893,False,Free Wired,73,2010-01-01
+12,Alcemist,spotify:artist:6WzWO3A5YAYxLVD224S9P0,Stan Smith,spotify:track:0nCgsAki7e7I243CUblGxU,235000,True,Stan Smith,65,2022-01-27
+13,Courteeners,spotify:artist:1NfJU4hy56Z4UM4iyIa1B2,Not Nineteen Forever,spotify:track:19CIsQ1HElu4XHdLCMlSqu,243973,False,St. Jude,60,2008-04-06
+14,ericdoa,spotify:artist:4hR6Bm9YYtktXzjmKhb1Cn,thingsudo2me,spotify:track:1pQxJJghbHSI1BAcxxtxm5,145511,True,COA,39,2020-11-06
+15,Svirgo19,spotify:artist:17W51IEIES4YPK8Dj1L075,Skeleton's Crown,spotify:track:2nCglCXq4WPcRe0lGSKz88,142669,True,The Path To Paradise Begins In Hell,1,2022-11-18
+16,BROCKHAMPTON,spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA,FMG,spotify:track:3Tlkud5UiGv7FCc3RcYbhG,150600,True,TM,61,2022-11-18
+17,Bad Books,spotify:artist:0e9H8oaYYRCKFXOVv848nt,Forest Whitaker,spotify:track:5S67wnJOMjuySVEu4ssCof,223840,False,II,50,2012-10-09
+18,Kanye West,spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,All Falls Down,spotify:track:5SkRLpaGtvYPhw02vZhQQ9,223506,True,The College Dropout,79,2004-02-10
+19,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,The Dress,spotify:track:0YMe6PHRbeDcN7KJdCG0bW,184767,False,Absolutely,69,2021-11-05
+20,Rizzle Kicks,spotify:artist:2ajhZ7EA6Dec0kaWiKCApF,Skip To The Good Bit,spotify:track:2SKhlPbGKIddb6lt0C2Plb,232920,False,Roaring 20s (Deluxe),54,2013-01-01
+21,Svirgo19,spotify:artist:17W51IEIES4YPK8Dj1L075,Malice At The Palace,spotify:track:4agbwaoU3sVGI3RQfQQCnQ,100000,True,The Path To Paradise Begins In Hell,2,2022-11-18
+22,Kendrick Lamar,spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg,DNA.,spotify:track:6HZILIRieu8S0iqY8kIKhj,185946,True,DAMN.,79,2017-04-14
+23,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,Annie,spotify:track:1UuyxrM0UxKxLht6vWf3lZ,118924,False,Absolutely,47,2021-11-05
+24,M83,spotify:artist:63MQldklfxkjYDoUE4Tppz,Outro,spotify:track:1s9i7W8zx7Nxx78MUIsvjV,247026,False,"Hurry up, We're Dreaming",64,2011-10-17
+25,Fred again..,spotify:artist:4oLeXFyACqeem2VImYeBFe,Dermot (see yourself in my eyes),spotify:track:1zAIRb8mTj8CcAUXW2FoMd,228858,True,Actual Life (April 14 - December 17 2020),63,2021-04-15
+26,CeeLo Green,spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8,Fuck You,spotify:track:1zneM1cLjM6w8BFmukl2Lr,223066,True,The Lady Killer (The Platinum Edition),59,2010-11-09
+27,Atlas in Motion,spotify:artist:1N9JxmOPJqhMCw219uoEi8,well known,spotify:track:7BQ1bO60AKrJdaHxfSeU0w,224168,True,well known,40,2020-01-01
+28,Ethan Bortnick,spotify:artist:0LyP0Zn0mXLb65AgGOS6EY,prom,spotify:track:1EtWJJbvPfmNsVDGOhTtSG,200000,True,prom,51,2022-04-29
+29,Saiming,spotify:artist:7iIrU7sHGT5yo0TOKIe6D9,Night Tube,spotify:track:1SaVl5y8PvOWwjM6VYcnKN,102400,False,Night Tube,37,2022-04-29
+30,Panic! At The Disco,spotify:artist:20JZFwl6HVl6yg8a4H3ZqK,Don't Let The Light Go Out,spotify:track:2Tg7Tc4H50u11aDpmSRQTB,229517,False,Viva Las Vengeance,64,2022-08-19
+31,James Ivy,spotify:artist:7t8sK02zmZ9f6e6eJA9oSJ,Yearbook (feat. Instupendo & Harry Teardrop),spotify:track:3HuC5shT06bdWZViLEbNqi,233333,False,Yearbook (feat. Instupendo & Harry Teardrop),35,2020-08-11
+32,ded eye,spotify:artist:1aCa9xZJZUDzPABSbSFjE4,Put This Beat on Genius,spotify:track:3i8HF3RDQ69c0Jsb4kj1sy,136311,False,Put This Beat on Genius,0,2020-01-31
+33,food house,spotify:artist:41f6TKH0EoBnj3N4xIp26g,mos thoser,spotify:track:45TI4VoSs08jayolmDYl1y,247917,True,mos thoser,37,2020-10-27
+34,KYLE,spotify:artist:4qBgvVog0wzW75IQ48mU7v,Playinwitme (feat. Kehlani),spotify:track:4F1yvJfQ7gJkrcgFJQDjOr,191680,False,Light of Mine,62,2018-05-18
+35,Laurie Vusolo,spotify:artist:1liJFuMbJfFCrnz0pRFwOr,small talk,spotify:track:4HP2yl3lPeEeie49whucSt,132966,False,small talk,1,2022-04-25
+36,Central Cee,spotify:artist:5H4yInM5zmHqpKIoMNAx4r,Obsessed With You,spotify:track:4PYfFHKfjYz6dwAtZhBy1z,108650,True,Obsessed With You,71,2021-09-10
+37,Tom Zanetti,spotify:artist:73Msd8rknjBghcGQiZ1mgh,You Want Me (feat. Sadie Ama),spotify:track:4xX7OsX8XTGWJgRxNNIaFT,188346,False,You Want Me (feat. Sadie Ama),57,2016-09-16
+38,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,untitled,spotify:track:51WcF4bMAAhJTUhLMHl6Dh,216250,True,no future,42,2020-02-14
+39,MUNA,spotify:artist:6xdRb2GypJ7DqnWAI2mHGn,Silk Chiffon,spotify:track:5ECxiK4Vigo1yRRmAoZc1f,206586,False,MUNA,65,2022-06-24
+40,Joey Purp,spotify:artist:1ewyVtTZBqFYWIcepopRhp,Girls @ (feat. Chance the Rapper),spotify:track:5p7sELomeqtq9ypH3VeVH1,212950,True,iiiDrops,45,2017-05-12
+41,Arizona Zervas,spotify:artist:0vRvGUQVUjytro0xpb26bs,ROXANNE,spotify:track:696DnlkuDOXcMAnKlTgXXK,163636,True,ROXANNE,77,2019-10-10
+42,Dizzee Rascal,spotify:artist:0gusqTJKxtU1UTmNRMHZcv,Bonkers,spotify:track:6ddQ5KCkvCggk3j6KdA0zL,177573,False,Tongue N' Cheek (Dirtee Deluxe Edition),66,2011-01-01
+43,Grima x Azza,spotify:artist:0B7mOOI1XegN3bz45dbD0R,The Damn Guy,spotify:track:78W81pRYN5j3SV1819Dz0F,344999,True,The Damn Guy,48,2018-11-08
+44,Funktown America,spotify:artist:3NSm1Gs94hozMxnhPbGPZi,Celebrate Good Times (Come On),spotify:track:7GebhNsNL8mm3D218sd1IM,218235,False,Celebrate Good Times (Come On),54,2012-07-16
+45,Noisia,spotify:artist:4YWj8sohRDjL9deiuRvEEY,Supersonic (VIP),spotify:track:2Pmz8aqad67TXz68XeJChp,206010,False,Closer,43,2022-05-12
+46,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,Skin,spotify:track:467t3218y3yihFcyDGWjr0,230625,False,Skin,65,2018-04-19
+47,Joey Purp,spotify:artist:1ewyVtTZBqFYWIcepopRhp,Elastic,spotify:track:4MAADpR6MjelkaZqe3Mgnv,126385,True,QUARTERTHING,64,2018-09-13
+48,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,Noah's Highlight Reel,spotify:track:6wh2M0tJarZMrU4FTYGDfn,226943,False,Absolutely,44,2021-11-05
+49,boylife,spotify:artist:6P8DiegQ0Inxj1UF6a9lCb,hey,spotify:track:6ysS3rKrkuy8dxOvkuWKZK,122640,False,gelato,32,2021-10-08

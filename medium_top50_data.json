@@ -1,0 +1,51 @@
+,artist,artist_uri,song,song_uri,duration_ms,explicit,album,popularity,release_date
+0,Bad Books,spotify:artist:0e9H8oaYYRCKFXOVv848nt,Forest Whitaker,spotify:track:5S67wnJOMjuySVEu4ssCof,223840,False,II,50,2012-10-09
+1,Biffy Clyro,spotify:artist:1km0R7wy712AzLkA1WjKET,Machines,spotify:track:2BdtN16BPZ6HVuFn7yx1pl,236079,False,Puzzle,46,2007-05-28
+2,The Wombats,spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB,Pink Lemonade,spotify:track:2QqfM19xb0tcmf9gOONcW7,226106,False,Glitterbug,47,2015-04-07
+3,Fred again..,spotify:artist:4oLeXFyACqeem2VImYeBFe,Dermot (see yourself in my eyes),spotify:track:1zAIRb8mTj8CcAUXW2FoMd,228858,True,Actual Life (April 14 - December 17 2020),63,2021-04-15
+4,Bleachers,spotify:artist:2eam0iDomRHGBypaDQLwWI,Rollercoaster,spotify:track:3Ao4MeZQu5BA3H3K2QeBl2,187466,False,"Terrible Thrills, Vol. 2",39,2015-09-28
+5,Enter Shikari,spotify:artist:31jvzuB4ikftPQZJwrYfCF,Airfield,spotify:track:0iLbnpbsLCoQ3jltHPHfN9,292674,False,The Spark,36,2017-09-22
+6,The 1975,spotify:artist:3mIj9lX2MWuHmhNCA7LSCW,Frail State Of Mind,spotify:track:5FbfZj2ZyTSu6RNeJ2Q0bj,233501,False,Notes On A Conditional Form,50,2020-05-22
+7,Bryce Bishop,spotify:artist:4bCECQ7T6fKIUbM8PtC13Q,You,spotify:track:3XbiRSBiSZotIhX5wkmtSQ,148531,False,You,38,2020-05-18
+8,Ryan Leahan,spotify:artist:4BX7bOS5nj3842rKfEnTIg,+++2c,spotify:track:6Yx59d84dIjn98ns6PYFzM,200478,True,spark!,31,2021-07-23
+9,Bryce Bishop,spotify:artist:4bCECQ7T6fKIUbM8PtC13Q,Como,spotify:track:1PlpqiiRCgwODO0Uum6f2Q,111428,True,Como,51,2019-11-24
+10,Bryce Bishop,spotify:artist:4bCECQ7T6fKIUbM8PtC13Q,Spite,spotify:track:0BGbUASyKp8f4Tis2PvgLi,120677,True,Spite,44,2021-09-07
+11,Montell Fish,spotify:artist:5nvWOyAkfNgVLKESq4fOj2,Talk 2 Me,spotify:track:0kqWdi9oHVO1KcjFjNCBL2,139805,False,Talk 2 Me,57,2021-07-09
+12,M83,spotify:artist:63MQldklfxkjYDoUE4Tppz,Outro,spotify:track:1s9i7W8zx7Nxx78MUIsvjV,247026,False,"Hurry up, We're Dreaming",64,2011-10-17
+13,ladiesmile,spotify:artist:0sCGdw63iJOtZQR6WgkCgq,GOODMORNING!,spotify:track:4G0HErA8DVn1o13pHCRKbv,182000,True,GOODMORNING!,40,2020-12-07
+14,Laurie Vusolo,spotify:artist:1liJFuMbJfFCrnz0pRFwOr,small talk,spotify:track:4HP2yl3lPeEeie49whucSt,132966,False,small talk,1,2022-04-25
+15,Mura Masa,spotify:artist:5Q81rlcTFh3k6DQJXPdsot,2gether,spotify:track:4dzBqc5t2GWJKpGqUoTbrU,191074,False,2gether,50,2021-11-26
+16,Monto,spotify:artist:1mXFL9lV4VY7dDstryxvD0,DREAMS,spotify:track:6f5JOSDj7pKGjBbhkCASKk,195135,False,DREAMS,33,2021-10-25
+17,Jay Kim,spotify:artist:6imBIUT38VebSD6K6N6cN6,dance w me,spotify:track:14CN9PiYo5bu0MeWYhtd5v,163644,False,homegrown,27,2022-03-04
+18,brakence,spotify:artist:4kqFrZkeqDfOIEqTWqbOOV,ginger tea,spotify:track:6GVW5k7CvUbUCt10bSUIIW,177588,True,punk2,49,2020-07-01
+19,Lady Gaga,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Shallow,spotify:track:2VxeLyX666F8uXCJ0dZF8B,215733,False,A Star Is Born Soundtrack,83,2018-10-05
+20,John Mayer,spotify:artist:0hEurMDQu99nJRq8pTxO14,Daughters,spotify:track:5FPnjikbwlDMULCCCa6ZCJ,237906,False,Heavier Things,65,2003-09-09
+21,Bryce Bishop,spotify:artist:4bCECQ7T6fKIUbM8PtC13Q,Winter,spotify:track:21HzXKJK9f2H8htxGvbRBq,149294,True,Winter,40,2020-02-02
+22,Courteeners,spotify:artist:1NfJU4hy56Z4UM4iyIa1B2,Not Nineteen Forever,spotify:track:19CIsQ1HElu4XHdLCMlSqu,243973,False,St. Jude,60,2008-04-06
+23,Monto,spotify:artist:1mXFL9lV4VY7dDstryxvD0,FALLING,spotify:track:3XWaPlRjKdaHXxLh4CIxRX,141002,False,FALLING,42,2020-10-05
+24,BROCKHAMPTON,spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA,NO HALO,spotify:track:4fGCNoJqk6Khe6YTRxwMC6,259750,True,NO HALO,36,2019-08-22
+25,The 1975,spotify:artist:3mIj9lX2MWuHmhNCA7LSCW,The Birthday Party,spotify:track:3wFPsw1WQJevCFoKpoLyTF,285833,True,Notes On A Conditional Form,55,2020-05-22
+26,underscores,spotify:artist:7HfUJxeVTgrvhk0eWHFzV7,Del mar county fair 2008,spotify:track:7HTdY4rpT1Wal6ux3t2hE4,271111,False,fishmonger,38,2021-03-25
+27,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,Modern Warfare,spotify:track:0o9B36SwyWjYnoXLWAyLzj,202609,True,Modern Warfare,44,2022-06-03
+28,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,XO,spotify:track:0ZAiqymvbQUZAh9y6ZT3Rm,159512,False,i think you think too much of me,66,2016-08-19
+29,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,isohel,spotify:track:33TqEVMeD9FUfyL2V5kDW7,270677,True,no future,43,2020-02-14
+30,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,crash,spotify:track:7EkMIQ2PzEzwQroLl6dUvw,232412,True,vertigo,63,2018-01-19
+31,The 1975,spotify:artist:3mIj9lX2MWuHmhNCA7LSCW,Part Of The Band,spotify:track:79vEv8zqy9tLYsTxxkXHXq,260148,False,Part Of The Band,61,2022-07-07
+32,Kanye West,spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,Frank's Track,spotify:track:20r94xA0bsYNLtYSiOE6r3,38333,True,The Life Of Pablo,56,2016-06-10
+33,Bon Iver,spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ,715 - CRâˆ‘âˆ‘KS,spotify:track:4fLfKKoIWroefEjqpMDid7,132000,False,"22, A Million",54,2016-09-30
+34,Rick and Morty,spotify:artist:2M0kKcVuBsLFH5d12pW215,Don't Look Back (feat. Kotomi & Ryan Elder) [From Rick and Morty: Season 4],spotify:track:1VbiENVGHwF5Y70Ywotwe1,207000,False,Don't Look Back (feat. Kotomi & Ryan Elder) [From Rick and Morty: Season 4],55,2020-06-01
+35,Ben E. King,spotify:artist:3plJVWt88EqjvtuB4ZDRV3,Stand by Me,spotify:track:3SdTKo2uVsxFblQjpScoHy,180055,False,Don't Play That Song (Mono),79,1962-08-20
+36,WILLOW,spotify:artist:3rWZHrfrsPBxVy692yAIxF,<maybe> it's my fault,spotify:track:4w5wkuwuCByenZ6QufdeQN,159832,False,<maybe> it's my fault,57,2022-06-24
+37,The Hunna,spotify:artist:7jZycSvTyx0W9poD4PjEIG,She's Casual,spotify:track:5Iq9CfQQSqeU7sPzdACC67,183760,False,100,23,2016-08-26
+38,NF,spotify:artist:6fOMl44jA4Sp5b9PpYCkzz,Lie,spotify:track:07FkzikE6FuHIa8Ma7zJGc,209213,False,Perception,76,2017-10-06
+39,Atlas in Motion,spotify:artist:1N9JxmOPJqhMCw219uoEi8,well known,spotify:track:7BQ1bO60AKrJdaHxfSeU0w,224168,True,well known,40,2020-01-01
+40,brakence,spotify:artist:4kqFrZkeqDfOIEqTWqbOOV,venus fly trap,spotify:track:37IFFBgI7qnLKqGP15mmIu,295866,True,venus fly trap,57,2022-07-08
+41,Kanye West,spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,Closed On Sunday,spotify:track:3JWiDGQX2eTlFvKj3Yssj3,151873,False,JESUS IS KING,61,2019-10-25
+42,EDEN,spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt,untitled,spotify:track:51WcF4bMAAhJTUhLMHl6Dh,216250,True,no future,42,2020-02-14
+43,ATO,spotify:artist:4KoNbDwbCK9D04dSmYG93E,Yours Now,spotify:track:51tlXCjsvyIFGN5AV64L7j,252631,True,Yours Now,34,2020-04-29
+44,The Wombats,spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB,Guillotine,spotify:track:7z1FBZVTXpsHhsgVBlJ7Vg,246689,False,The Wombats Proudly Present... This Modern Glitch (10th Anniversary Edition),30,2011
+45,The Wombats,spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB,1996,spotify:track:2wfrWAfJ34NbQcl4c1DPC3,260400,False,The Wombats Proudly Present... This Modern Glitch,44,2011-04-22
+46,YXPPER,spotify:artist:4RAi9soE5IrYGRBOcFWkGd,I'll Be Alright,spotify:track:4S5XkdOKbpn0tBsiGxwNd6,124839,True,I'll Be Alright,38,2020-08-28
+47,The Miracles,spotify:artist:6TqQLejnHXMGr7KcegxUND,The Only One I Love,spotify:track:3aySRrXmZEO7y5wFZ0I1oO,154840,False,Cookin' With The Miracles,6,1962-01-01
+48,Mumford & Sons,spotify:artist:3gd8FJtBJtkRxdfbTu19U2,The Wolf,spotify:track:2vWxcvNva9F5J7QzK2GrSb,221240,False,Wilder Mind,52,2015-05-04
+49,Dijon,spotify:artist:0knGpCTbmG4ctl1wzYRZs4,Many Times,spotify:track:63EUqnpcphhZh8SbXagArw,126905,False,Absolutely,56,2021-11-05
