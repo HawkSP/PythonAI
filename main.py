@@ -128,9 +128,7 @@ def get_sound():
         name_of_song = col[count] + " " + col2[count]
         if isascii(song_download):
             print(song_download)
-            song_download = song_download.replace(" ", "+")
-            song_download = song_download.replace("-", "+")
-            song_download = song_download.replace(".", "+")
+            song_download = song_download.replace(" " + ':' + ';' + '!' + '"' + '£' + '$' + '%'+ '^' + '&' + '*' + '(' + ')' + '-' + '_' + '=' + '[' + ']' + '{' + '}' + '@' + "'" + '#' + '~' + '<' '>' + ',' + '.' + '?' + '/' + '`' + '¬', "+")
             search_keyword = song_download
             html = urllib.request.urlopen("https://www.youtube.com/results?search_query=" + search_keyword)
             video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
@@ -176,9 +174,7 @@ def get_sound():
             song_download = col[count] + " " + col3[count]
             name_of_song = col[count]
             print(song_download)
-            song_download = song_download.replace(" ", "+")
-            song_download = song_download.replace("-", "+")
-            song_download = song_download.replace(".", "+")
+            song_download = song_download.replace(" " + ':' + ';' + '!' + '"' + '£' + '$' + '%'+ '^' + '&' + '*' + '(' + ')' + '-' + '_' + '=' + '[' + ']' + '{' + '}' + '@' + "'" + '#' + '~' + '<' '>' + ',' + '.' + '?' + '/' + '`' + '¬', "+")
             search_keyword = song_download
             html = urllib.request.urlopen("https://www.youtube.com/results?search_query=" + search_keyword)
             video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
@@ -308,9 +304,7 @@ def get_sound():
         name_of_song = col[count] + " " + col2[count]
         if isascii(song_download):
             print(song_download)
-            song_download = song_download.replace(" ", "+")
-            song_download = song_download.replace("-", "+")
-            song_download = song_download.replace(".", "+")
+            song_download = song_download.replace(" " + ':' + ';' + '!' + '"' + '£' + '$' + '%'+ '^' + '&' + '*' + '(' + ')' + '-' + '_' + '=' + '[' + ']' + '{' + '}' + '@' + "'" + '#' + '~' + '<' '>' + ',' + '.' + '?' + '/' + '`' + '¬', "+")
             search_keyword = song_download
             html = urllib.request.urlopen("https://www.youtube.com/results?search_query=" + search_keyword)
             video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
@@ -357,9 +351,7 @@ def get_sound():
             song_download = col[count] + " " + col3[count]
             name_of_song = col[count]
             print(song_download)
-            song_download = song_download.replace(" ", "+")
-            song_download = song_download.replace("-", "+")
-            song_download = song_download.replace(".", "+")
+            song_download = song_download.replace(" " + ':' + ';' + '!' + '"' + '£' + '$' + '%'+ '^' + '&' + '*' + '(' + ')' + '-' + '_' + '=' + '[' + ']' + '{' + '}' + '@' + "'" + '#' + '~' + '<' '>' + ',' + '.' + '?' + '/' + '`' + '¬', "+")
             search_keyword = song_download
             html = urllib.request.urlopen("https://www.youtube.com/results?search_query=" + search_keyword)
             video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
